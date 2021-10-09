@@ -1,0 +1,18 @@
+/* === Small CSS Reset === */
+*{
+  margin: 0;
+  padding: 0;
+}
+*, *::after, *::before{
+  box-sizing: border-box;
+}
+
+/* Input Textfield */
+.page-content {
+  padding: 50px 100px;
+}
+
+/* User Profile */
+.demo-list-control {
+  width: 300px;
+}

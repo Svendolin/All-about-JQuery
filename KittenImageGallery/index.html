@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kitten Image Gallery</title>
+  <script src="code.js" defer></script>
+  <style>
+    *, *::before, *::after{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #333;
+    }
+
+    .container {
+      max-width: 706px;
+      margin: auto;
+      border: solid white 3px;
+      background-color: white;
+    }
+
+    .main-img img, .images img {
+      width: 100%;
+    }
+
+    .images {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 5px;
+    }
+
+
+    @keyframes fadeIn {
+      to{
+        opacity: 1;
+      }
+    }
+
+    .fade-in {
+      opacity: 0;
+      animation: fadIn 0.5s ease-in forwards;
+    }
+
+
+  </style>
+  
+</head>
+<body>
+  <div class="container">
+    <div class="main-img">
+      <img src="images/cat1.jpg" alt="Cute Cat">
+    </div>
+    <div class="images">
+      <img src="images/cat1.jpg" alt="Cute Cat">
+      <img src="images/cat2.jpg" alt="Cute Cat">
+      <img src="images/cat3.jpg" alt="Cute Cat">
+      <img src="images/cat4.jpg" height="114.11px" alt="Cute Cat">
+      <img src="images/cat5.jpg" alt="Cute Cat">
+      <img src="images/cat6.jpg" alt="Cute Cat">
+      <img src="images/cat7.jpg" alt="Cute Cat">
+      <img src="images/cat8.jpg" height="114.11px" alt="Cute Cat">
+    </div>
+  </div>
+
+  
+</body>
+</html>
