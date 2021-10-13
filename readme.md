@@ -10,6 +10,7 @@ This "All about Javascript"-repository catches up its focus on all the Javascrip
 This includes:
 
 * Vanilla Javascript
+* Basics (such as selectors, functions, hover- and clickevents)
 * Formular Validation
 * KittenImageGallery
 * ToDoList
