@@ -20,14 +20,19 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 <br />
 
 
-<!-- ***
+***
 ## Folder Directory
 ***
-1. [General Info and Visuals](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Basics](#basics)
+2. [Animations](#animations)
+3. [Events](#events)
+4. [Sliders](#collaboration)
+5. [Accordion](#faqs)
+
+| Topic | Content  | 
+|:--------------| :--------------|
+| Basics | Document Ready Function / Selectors / Append and Prepend / Functions / Click Events / Hover |
+| Animations | Showhide / Slide / Toggle / Afteranimation / Slidefade / Callback / Animate |
 
 <br />
 <br />
@@ -38,9 +43,8 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ## Technologies ✅
 ***
  JS-Frameworks / CDNJS:
-* [Technologie name](https://example.com): Version 1.0
-* [Technologie name](https://example.com): Version 1.1
-* [Library name](https://example.com): Version whatever
+* Shown in in the head of each HTML file. Dont forget to copy the most recent cdn and replace it before you start a new project
+
 
 <br />
 <br />
@@ -48,10 +52,8 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
 ## Collaboration ✅
 ***
-=> Give instructions on how to collaborate with your project.
-> A perfect opportunity is to use quotes like these.
+> Feel free to contact me if you've seen something wrong, found some errors or struggled on some mistakes! Always happy to have a clean sheet here! :)
 
-> Or another one if you wish.
 
 <br />
 <br />
@@ -59,18 +61,10 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
 ## FAQs ✅
 ***
-=> A list of frequently asked questions
-1. **This is a question in bold:**
-Answer of the first question with: _italic words_. 
-2. __Second question in bold:__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold:**
-Answer of the third question with: *italic words*.
-4. **Fourth question in bold**
+0 Questions have been asked, 0 answers have been given, 0 changes have been made.
 
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+| Questions | Anwers | Changes |
 |:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right | -->
+| 0 | 0 | 0 |
+
+
