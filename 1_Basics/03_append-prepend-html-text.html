@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Manipulating Dom</title>
+    <title>Manipulating Dom with append and prepend</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         *{margin:0}
@@ -12,30 +12,32 @@
     <script>
     $(document).ready(function(){
         // Jquery gives us a couple of methods that make DOM manipulation a lot easier.
+        // $() the FIRST PART defines WHERE we want to have the DOM changed btw :D
 
-        // Append is very similar to vanilla JS' appendChild().
-        // It inserts an element into another element, after all it's children elements
+        // => APPEND is very similar to vanilla JS' appendChild().It inserts an element into another element, after all it's children elements
         $("main").append("<p id='something'>Foo Bar Baz Spam Ham</p>");
-        // HTML is equivalent to innerHTML, it changer the content between the start and end tags of an element.
+        // => HTML is equivalent to innerHTML, it changes the content between the start and end tags of an element.
         $("header").html("<h2>hello world</h2>");
-        // Prepend is similar to append, but instead of inserting after an elements children, it inserts it before
+        // => PREPEND is similar to append, but instead of inserting after an elements children, it inserts it before
         $("section").prepend("<h2>My Section</h2>");
-        // With text you can change the text of an element, whatever you give in will be interpreted as text
-        $("section div").text("<tag>You can see my tags</tag>");
+        // => With TEXT you can change the text of an element, whatever you give in will be interpreted as text (So beware: People can see your HTML tags now!)
+        $("section div").text("<tag>Oh my...You can see my tags!!</tag>");
     });
     
     </script>
 </head>
 <body>
     <header>
-        <h1>Hello World</h1>
+        <h1>Hello World</h1> <!-- With .html this <h1> will be changed to <h2> -->
+        <!-- The id=Something via APPEND will appear right here -->
     </header>
     <main>
         
     </main>
     <section>
+        <!-- The id=Something via PREPEND will appear right here -->
         <h3>I can insert escaped text</h3>
-        <div></div>
+        <div><!-- The text-stuff will appear right here --></div>
     </section>
 </body>
 </html>
