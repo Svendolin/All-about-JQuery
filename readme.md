@@ -23,7 +23,7 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 
 | Topic | Content  | 
 |:--------------| :--------------|
-| Basics | Document Ready Function / Selectors / Append and Prepend / Functions / Click Events / Hover |
+| Basics | Document Ready Function (JQuery) // Selectors (JQuery) // Append and Prepend (JQuery) // Functions // Click Events // Hover |
 | Animations | Showhide / Slide / Toggle / Afteranimation / Slidefade / Callback / Animate |
 
 <br />
