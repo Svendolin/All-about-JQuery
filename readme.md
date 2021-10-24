@@ -20,11 +20,12 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 3. [Events](#events)
 4. [Sliders](#collaboration)
 5. [Accordion](#faqs)
+8. [ModalPopups](#faqs)
 
 | Topic | Content  | 
 |:--------------| :--------------|
 | Basics | Document Ready Function (JQuery) // Selectors (JQuery) // Append and Prepend (JQuery) // Functions // Click Events // Hover |
-| Animations | Showhide / Slide / Toggle / Afteranimation / Slidefade / Callback / Animate |
+| Animations | Showhide // Slide // Toggle / Afteranimation // Slidefade // Callback // Animate |
 
 <br />
 <br />
