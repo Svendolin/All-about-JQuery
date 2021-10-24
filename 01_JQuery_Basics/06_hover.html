@@ -24,26 +24,27 @@
     // Hover is one of the coolest event methods in jQuery.
     // hover is a convination of the mouseenter and the mouseleave events
     // so instead of taking one callback function like a normal event, it takes 2
-    // the first one corresponds to the mouse enter event and the second one 
-    // to the mouse leave event.
+    // the FIRST ONE corresponds to the MOUSE ENTER event...
+    // the SECOND ONE corresponds to the MOUSE LEAVE event.
 
-    $(document).ready(function(){
+
+    $(document).ready(function(){ // -- IMPORTANT: We need document ready function because our script is linked before the elements -- //
 
 
         $(".high").hover(
-            // first callback function is the mouse enter event
+            // WHEN WE ENTER: first callback function is the "mouse enter" event
             function(){
                 // in this case, when the mouse eneter we append a span to this ( this being the hovered element)
                 $( this ).append("<span> !!! DO THIS NOW !!!</span>");
             }, 
-            // This is the second callback function which corresponds to the mouse leave event
+            // WHEN WE LEAVE: second callback function is the "mouse leave" event
             function(){
                 // when we leave with the mouse, we remove the span!
                 $("span").remove();
         })
 
 
-        // We can do this for as many elements as we want
+        // We can do this for as many different elements as we want
         $(".low").hover(function(){
             $( this ).append("<span id='wait'> ... this can wait</span>");
         }, function(){

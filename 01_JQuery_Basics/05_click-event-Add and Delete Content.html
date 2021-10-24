@@ -46,10 +46,8 @@
     // The second RED square will get rid of created squares.
 
 
-    // -- IMPORTANT: We need document ready function because our script is linked before the elements -- //
-
     // Since we are doing DOM manipulation, it is a good idea to wait for content to load
-    $(document).ready(function(){
+    $(document).ready(function(){ // -- IMPORTANT: We need document ready function because our script is linked before the elements -- //
         
         // We are going to need two click events, the first one listens if the #creator square is clicked
         $("#creator").click(function(){
