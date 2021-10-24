@@ -4,7 +4,7 @@
 ***
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 
-# &nbsp; - ALL ABOUT (JQUERY) JAVASCRIPT - 🔅
+# &nbsp; - ALL ABOUT JQUERY - 🔅
 
 This "All about JQUERY Javascript"-repository catches up its focus on all the JQuery Javascript I've learned, commented and written through the years as a **SAE-Web Development** student with exercise lessons every week as well as tutorial videos on _Youtube_.         
 Direct Link to the place where I'm studying are you going to find [HERE](https://www.sae.edu/che/de?utm_source=PS01&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLVIaD_aUt7y4brT7tqMW9o7tskgb1vjQqJFkzQwkwdN_40_Ls7MgAEaAtXxEALw_wcB)
