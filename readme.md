@@ -9,7 +9,7 @@
 
 # &nbsp; - ALL ABOUT JQUERY - 🔅
 
-This "All about JQUERY Javascript"-repository catches up its focus on all the JQuery Javascript I've learned, commented and written through the years as a **SAE-Web Development** student with exercise lessons every week as well as tutorial videos on _Youtube_.         
+This "All about JQUERY"-repository catches up its focus on all the JQuery I've learned, commented and written through the years as a **SAE-Web Development** student with exercise lessons every week as well as tutorial videos on _Youtube_.         
 Direct Link to the place where I'm studying are you going to find [HERE](https://www.sae.edu/che/de?utm_source=PS01&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLVIaD_aUt7y4brT7tqMW9o7tskgb1vjQqJFkzQwkwdN_40_Ls7MgAEaAtXxEALw_wcB)
 <br />
 <br />
