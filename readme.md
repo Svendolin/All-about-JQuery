@@ -3,7 +3,6 @@
 
 ***
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> 
 
 
 
@@ -27,7 +26,7 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 
 | Topic | Content  | 
 |:--------------| :--------------|
-| Basics | Document Ready Function // Selectors // Append and Prepend // Functions (colour change) // Click Events (Add and delete content) // Hover (over text) |
+| Basics | `$(document).ready(function(){})` // Selectors // `.append() vs .prepend()` // Functions (colour change) // `.click(event)` (Add and delete content) // `.hover()`(over text) |
 | ...| ... |
 
 <br />
