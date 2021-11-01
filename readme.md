@@ -16,7 +16,7 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
 ## Folder Directory
 ***
-1. [JQuery Basics](#basics)
+1. [Basics](#basics)
 2. [Animations](#animations)
 3. [Events](#events)
 4. [Sliders](#collaboration)
