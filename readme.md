@@ -16,12 +16,9 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
 ## Folder Directory
 ***
-1. [Basics](#basics)
-2. [Animations](#animations)
-3. [Events](#events)
-4. [Sliders](#collaboration)
-5. [Accordion](#faqs)
-8. [ModalPopups](#faqs)
+1. [Basics](https://github.com/Svendolin/All-about-JQuery/tree/master/Basics)
+2.
+
 
 | Topic | Content  | 
 |:--------------| :--------------|
