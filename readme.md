@@ -16,8 +16,8 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
 ## Folder Directory
 ***
-1. [Basics](https://github.com/Svendolin/All-about-JQuery/tree/master/Basics)
-2.
+* [01_Basics](https://github.com/Svendolin/All-about-JQuery/tree/master/01_Basics)
+* [02_Animations](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
 
 
 | Topic | Content  | 
