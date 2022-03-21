@@ -22,12 +22,27 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 
 | Topic | Content  | 
 |:--------------| :--------------|
-| Basics | `$(document).ready(function(){})` // Selectors // `.append() vs .prepend()` // Functions (colour change) // `.click(event)` (Add and delete content) // `.hover()`(over text) |
-| ...| ... |
+| 01 Basics | `$(document).ready(function(){})` // Selectors // `.append() vs .prepend()` // Functions (colour change) // `.click(event)` (Add and delete content) // `.hover()`(over text) // Mouse-Coordinates-Hover |
+| 02 Animations | ShowAndHide-Buttons for Text // `Toggle` = ShowAndHide with ONE Button // ShowAndHide + Change Class of Object // HELPFUL `Toggle vs Hide` // boxy animation using `animate()` |
 
 <br />
 <br />
 
+## Important TERMS in Javascript: 📈
+***
+| Term (word): |  Explenation:  | 
+|:--------------| :--------------|
+|**OBJECTS**| "Sammlung von Datenwerten, Eigenschaften (Properties) z.B. = `const = Tasse {farbe: "blau", grösse: "mittel"}` etc  |
+|**PROPERTIES**| Eigenschaft des Objektes: `Tasse.farbe` in dot-notation oder `Tasse["farbe"]` in bracket-notation welcher einen Wert (value) mitteilt |
+|**VALUES**| Wert einer Eigenschaft: `"blau"` z.B|
+|**VARIABLES**| Behälter als "Speicherplatz" `const` mit unveränderlichem Namen, dazu Typ und Wert |
+|**METHODS**| Methoden brauchen für ihren Aufruf immer ein zugehöriges Objekt |
+|**FUNCTIONS**| "Eine Funktion ist eine Gruppe von Anweisungen, die durch einen Namen aufgerufen werden. Beim Aufruf der Funktion können Daten übergeben werden, um sie innerhalb der Funktion zu bearbeiten." |
+
+
+
+<br>
+<br>
 
 
 ***
