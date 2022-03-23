@@ -9,6 +9,11 @@
 
 This "All about JQUERY"-repository catches up its focus on all the JQuery I've learned, commented and written through the years as a **SAE-Web Development** student with exercise lessons every week as well as tutorial videos on _Youtube_.         
 Direct Link to the place where I'm studying are you going to find [HERE](https://www.sae.edu/che/de?utm_source=PS01&gclid=Cj0KCQjw-4SLBhCVARIsACrhWLVIaD_aUt7y4brT7tqMW9o7tskgb1vjQqJFkzQwkwdN_40_Ls7MgAEaAtXxEALw_wcB)
+
+What is JQuery:
+* JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.  [GET YOUR API HERE](https://api.jquery.com/)
+
+* Are you new to JQuery? Check out the  [LEARNING CENTER HERE](https://learn.jquery.com/)
 <br />
 <br />
 
@@ -30,14 +35,14 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 
 ## Important TERMS in Javascript: 📈
 ***
-| Term (word): |  Explenation:  | 
+| Term (word): |  Explenation in German for a better personal understanding for myself:  | 
 |:--------------| :--------------|
 |**OBJECTS**| "Sammlung von Datenwerten, Eigenschaften (Properties) z.B. = `const = Tasse {farbe: "blau", grösse: "mittel"}` etc  |
 |**PROPERTIES**| Eigenschaft des Objektes: `Tasse.farbe` in dot-notation oder `Tasse["farbe"]` in bracket-notation welcher einen Wert (value) mitteilt |
-|**VALUES**| Wert einer Eigenschaft: `"blau"` z.B|
-|**VARIABLES**| Behälter als "Speicherplatz" `const` mit unveränderlichem Namen, dazu Typ und Wert |
-|**METHODS**| Methoden brauchen für ihren Aufruf immer ein zugehöriges Objekt |
-|**FUNCTIONS**| "Eine Funktion ist eine Gruppe von Anweisungen, die durch einen Namen aufgerufen werden. Beim Aufruf der Funktion können Daten übergeben werden, um sie innerhalb der Funktion zu bearbeiten." |
+|**VALUES**| Wert einer Eigenschaft: z.B. `"blau"` |
+|**VARIABLES**| Behälter als "Speicherplatz" `const` mit unveränderlichem Namen, dazu Scope-Typ (const = konstant, unveränderlich, let = lokal wiederverwendbar, var = Gültigkeitsbereich auf allen Seiten) und genau einem Wert |
+|**METHODS**| Methoden brauchen für ihren Aufruf immer ein zugehöriges Objekt und werden in einer Klasse definiert. Man kann sie somit gerne "Objektorientierte Funktionen mit Beziehung zur eingespeicherten Klasse" nennen... `public methode()` |
+|**FUNCTIONS**| "Eine Funktion ist eine Gruppe von Anweisungen, die durch einen Namen aufgerufen werden. Beim Aufruf der Funktion können Daten übergeben werden, um sie innerhalb der Funktion zu bearbeiten." WICHTIG: Funktion immer beim Namen aufrufen, um sie zu aktivieren |
 
 
 
@@ -50,12 +55,6 @@ Direct Link to the place where I'm studying are you going to find [HERE](https:/
 ***
  CDNJS:
 * Shown in in the head of each HTML file. Dont forget to copy the most recent [CDNJS CODE FROM HERE](https://cdnjs.com/libraries/jquery) before you start a new project! Please dont forget to add this Script-tag BEFORE your Javascript link in your head-html!
-
-JQuery:
-* JQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.  [GET YOUR API HERE](https://api.jquery.com/)
-
-* Are you new to JQuery? Check out the  [LEARNING CENTER HERE](https://learn.jquery.com/)
-
 
 <br />
 <br />
