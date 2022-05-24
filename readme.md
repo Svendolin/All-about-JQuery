@@ -23,6 +23,12 @@ What is JQuery:
 ***
 * [01_Basics](https://github.com/Svendolin/All-about-JQuery/tree/master/01_Basics)
 * [02_Animations](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [03_Sliders](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [04_Accordeons](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [05_Tabs](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [06_Timelines](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [07_ModalPopUps](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [08_AllComponentsTask](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
 
 
 | Topic | Content  | 
@@ -34,6 +40,7 @@ What is JQuery:
 | 05 Tabs | Tab Basic: Tab through the content HORIZONTALLY by clicking the tab peak folder |
 | 06 Timelines | Vertical timeline with basic show by click // Vertical Timeline with animated show by click // Horizontal Timeline |
 | 07 ModalPopUps | Like a selfmade "Sweetalert" = Click the button to pop up a modal message |
+| 08 AllComponentsTask | Kittenpage example (used JQUERY for kitten image gallery and form validation) NOTE: Basic exercises with image gallery and form validation was originally made with vanilla JS|
 
 <br />
 <br />
