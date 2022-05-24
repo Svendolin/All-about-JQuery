@@ -23,12 +23,12 @@ What is JQuery:
 ***
 * [01_Basics](https://github.com/Svendolin/All-about-JQuery/tree/master/01_Basics)
 * [02_Animations](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [03_Sliders](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [04_Accordeons](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [05_Tabs](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [06_Timelines](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [07_ModalPopUps](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
-* [08_AllComponentsTask](https://github.com/Svendolin/All-about-JQuery/tree/master/02_Animations)
+* [03_Sliders](https://github.com/Svendolin/All-about-JQuery/tree/master/03_Sliders)
+* [04_Accordeons](https://github.com/Svendolin/All-about-JQuery/tree/master/04_Accordeons)
+* [05_Tabs](https://github.com/Svendolin/All-about-JQuery/tree/master/05_Tabs)
+* [06_Timelines](https://github.com/Svendolin/All-about-JQuery/tree/master/06_Timelines)
+* [07_ModalPopUps](https://github.com/Svendolin/All-about-JQuery/tree/master/07_ModalPopUps)
+* [08_AllComponentsTask](https://github.com/Svendolin/All-about-JQuery/tree/master/08_AllComponentsTask)
 
 
 | Topic | Content  | 
