@@ -29,6 +29,11 @@ What is JQuery:
 |:--------------| :--------------|
 | 01 Basics | `$(document).ready(function(){})` // Selectors // `.append() vs .prepend()` // Functions (colour change) // `.click(event)` (Add and delete content) // `.hover()`(over text) // Mouse-Coordinates-Hover |
 | 02 Animations | ShowAndHide-Buttons for Text // `Toggle` = ShowAndHide with ONE Button // ShowAndHide + Change Class of Object // HELPFUL `Toggle vs Hide` // boxy animation using `animate()` |
+| 03 Sliders | Basic Slider with Back and Forward Button + Autoload // Responsive Slider with the same functions as the basic slider but responsive |
+| 04 Accordeons | Basic Accordeon: Show and Hide Content VERTICALLY by clicking the +Button |
+| 05 Tabs | Tab Basic: Tab through the content HORIZONTALLY by clicking the tab peak folder |
+| 06 Timelines | Vertical timeline with basic show by click // Vertical Timeline with animated show by click // Horizontal Timeline |
+| 07 ModalPopUps | Like a selfmade "Sweetalert" = Click the button to pop up a modal message |
 
 <br />
 <br />
